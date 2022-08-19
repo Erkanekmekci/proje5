@@ -20,7 +20,7 @@ span {
     border: 3px solid black;
     padding: 20px;
     margin: 8px;
-    background-color: brown;
+    background-color: indianred;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -29,6 +29,7 @@ span {
     width: 200%;
     margin-top: 50%;
     margin-left: 100%;
+    font-size: x-large;
 
 
 
@@ -61,12 +62,7 @@ img {
     left: 500px;
     margin-top: 8%;
     margin-left: 23%;
-    border: 3px solid black;
-
-
-
-
-
+    border: 3px solid black
 }
 
 h1 {
